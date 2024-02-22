@@ -35,19 +35,19 @@ Tujuan dari pembuatan projek ini adalah membuat sistem kasir self-service yang d
 3. **update_jumlah_barang()**  
   Metode ini digunakan untuk merubah jumlah barang berdasarkan nama barang yang ada didalam daftar barang belanja. 
 
-5. **update_harga_barang()**
+4. **update_harga_barang()**
   Metode ini digunakan untuk merubah harga barang berdasarkan nama barang yang ada didalam daftar barang belanja. 
 
-6. **hapus_barang()**  
+5. **hapus_barang()**  
   Metode ini digunakan untuk menghapus salah satu barang yang diinginkan berdasarkan nama barang yang ada didalam daftar barang belanja
 
-7. **reset_transaction()**  
+6. **reset_transaction()**  
   Metode ini digunakan untuk menghapus semua barang didalam daftar barang belanjaan.
 
-8. **cek_order()**  
+7. **cek_order()**  
   Mwtode ini digunakan untuk memastikan data yang diinputkan sudah benar atau belum.
   
-9. **total_belanja()**  
+8. **total_belanja()**  
   Metode ini digunakan untuk menghitung total harga dari daftar barang belanja customer. 
 
 ## Flowchart
