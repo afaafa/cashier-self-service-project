@@ -58,7 +58,7 @@ Tujuan dari pembuatan projek ini adalah membuat sistem kasir self-service yang d
 # Tes Case
 
  <p>
-<img align="center" src="src/tambah_barang.png" width="800" height="300" />
+<img align="center" src="src/method tambah_barang.png" width="800" height="300" />
 </p>
 
 # Saran / Improvement
