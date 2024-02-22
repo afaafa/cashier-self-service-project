@@ -38,10 +38,10 @@ Tujuan dari pembuatan projek ini adalah membuat sistem kasir self-service yang d
 4. **update_harga_barang()**
   Metode ini digunakan untuk merubah harga barang berdasarkan nama barang yang ada didalam daftar barang belanja. 
 
-5. **hapus_barang()**  
+5. **hapus_barang()**
   Metode ini digunakan untuk menghapus salah satu barang yang diinginkan berdasarkan nama barang yang ada didalam daftar barang belanja
 
-6. **reset_transaction()**  
+6. **reset_transaction()**
   Metode ini digunakan untuk menghapus semua barang didalam daftar barang belanjaan.
 
 7. **cek_order()**  
