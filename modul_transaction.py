@@ -414,38 +414,3 @@ class Transaction:
 
       #menampilkan pesan total yang harus dibayarkan
       print(f'Total Bayar: {round(total_bayar)}')
-
-trnsct_123 = Transaction()
-trnsct_123.tambah_barang("apel", 1, 1000)
-trnsct_123.cek_order()
-
-trnsct_123.tambah_barang("jambu", 3, 2000)
-trnsct_123.cek_order()
-
-trnsct_123.update_nama_barang("apel", "mangga")
-trnsct_123.cek_order()
-
-trnsct_123.update_jumlah_barang("mangga", 12)
-trnsct_123.cek_order()
-
-trnsct_123.update_harga_barang("mangga", 200_000)
-trnsct_123.cek_order()
-
-trnsct_123.hapus_barang('jambu')
-trnsct_123.cek_order()
-
-trnsct_123.cek_order()
-trnsct_123.total_belanja()
-
-trnsct_123.reset_transaction()
-trnsct_123.cek_order()
-
-"""Yang belum :
-1. bikin tes case error dengan try exception
-2. bikin modular code (bikin modul 'main')
-3. revisi ppt --> canva
-4. revisi flowchart
-5. upload github kalo udah selesai
-6. bikin video presentasi, upload youtube
-
-"""
