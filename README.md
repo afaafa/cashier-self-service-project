@@ -7,9 +7,8 @@
 # method yang digunakan
 
 # flowchart
-</li><li>
  <p>
-<img align="center" src="src/flowchart.png" width="500" height="400" />
+<img align="center" src="src/flowchart.jpg" width="800" height="1200" />
 </p>
 
 # tes case
