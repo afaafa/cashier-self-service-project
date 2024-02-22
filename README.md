@@ -12,9 +12,9 @@ Tujuan dari pembuatan projek ini adalah membuat sistem kasir self-service yang d
 
 1. Customer dapat menginput barang, jumlah barang, dan juga harga barang dengan metode tambah_barang. 
 2. Jika customer salah input, ia dapat mengubah salah satu inputanya:
-   - mengubah nama barang dengan metode ubah_nama_barang. 
-   - mengubah jumlah barang dengan metode ubah_jumlah_barang.
-   - mengubah harga barang dengan metode ubah_harga_barang.
+   - mengubah nama barang dengan metode update_nama_barang. 
+   - mengubah jumlah barang dengan metode update_jumlah_barang.
+   - mengubah harga barang dengan metode update_harga_barang.
 3. Jika customer ingin menghapus salah satu barang dari daftar barang belanjanya, dapat menggunakan metode hapus_barang.
 4. Jika customer ingin menghapus semua barang dari daftar belanjanya, dapat menggunakan metode reset_transaction.
 5. Sebelum dapat menghitung total belanjanya, isi dari daftar belanja customer dicek dulu dengan metode cek_order. Metode ini mengecek apakah ada inputan yang masih salah pada daftar barang belanja customer.
