@@ -1,0 +1,1 @@
+# cashier-self-service-project
