@@ -83,7 +83,7 @@ Customer ingin menambahkan dua 4 barang baru dengan method `tambah_barang()`. Ba
  - nama barang: jeruk, jumlah: 33, harga: 3500
 Expected Output:
  <p>
-<img align="center" src="src/method tambah_barang.png" width="650" height="180" />
+<img align="center" src="src/method tambah_barang.png" width="650" height="140" />
 </p>
 
 ### Tes 2:
