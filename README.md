@@ -90,42 +90,42 @@ Expected Output:
 Customer ingin mengubah nama barang `apel` menjadi `duku` dengan method `update_nama_barang()`.
 Expected Output:
  <p>
-<img align="center" src="src/method update_nama_barang.png" width="850" height="300" />
+<img align="center" src="src/method update_nama_barang.png" width="640" height="220" />
 </p>
 
 ### Tes 3:
 Customer ingin mengubah jumlah barang `mangga` menjadi `17 buah` dengan method `update_jumlah_barang()`.
 Expected Output:
  <p>
-<img align="center" src="src/method update_jumlah_barang.png" width="800" height="300" />
+<img align="center" src="src/method update_jumlah_barang.png" width="640" height="220" />
 </p>
 
 ### Tes 3:
 Customer ingin mengubah harga barang `jambu` menjadi `3000` dengan method `update_harga_barang()`.
 Expected Output:
  <p>
-<img align="center" src="src/method update_harga_barang.png" width="800" height="300" />
+<img align="center" src="src/method update_harga_barang.png" width="640" height="220" />
 </p>
 
 ### Tes 4:
 Customer ingin menghapus barang `duku` dengan method `hapus_barang()`.
 Expected Output:
  <p>
-<img align="center" src="src/method hapus_barang.png" width="800" height="300" />
+<img align="center" src="src/method hapus_barang.png" width="640" height="220" />
 </p>
 
 ### Tes 5:
 Customer ingin menghitung barang total belanja dengan method `total_belanja()`.
 Expected Output:
  <p>
-<img align="center" src="src/method total_belanja.png" width="800" height="300" />
+<img align="center" src="src/method total_belanja.png" width="640" height="220" />
 </p>
 
 ### Tes 6:
 Customer ingin menghapus seluruh barang dengan method `reset_transaction()`.
 Expected Output:
  <p>
-<img align="center" src="src/method reset_transaction.png" width="800" height="300" />
+<img align="center" src="src/method reset_transaction.png" width="640" height="220" />
 </p>
 
 ## Saran Pengembangan
