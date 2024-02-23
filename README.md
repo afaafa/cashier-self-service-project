@@ -90,7 +90,7 @@ Expected Output:
 Customer ingin mengubah nama barang `apel` menjadi `duku` dengan method `update_nama_barang()`.
 Expected Output:
  <p>
-<img align="center" src="src/method update_nama_barang.png" width="800" height="300" />
+<img align="center" src="src/method update_nama_barang.png" width="850" height="300" />
 </p>
 
 ### Tes 3:
